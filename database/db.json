@@ -1,0 +1,87 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "title": "Product 1",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Omnis laboriosam voluptatum accusamus voluptatibus culpa totam sequi aspernatur quia perspiciatis amet.",
+      "price": "599"
+    },
+    {
+      "id": "2",
+      "title": "Product 2",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Omnis laboriosam voluptatum accusamus voluptatibus culpa totam sequi aspernatur quia perspiciatis amet.",
+      "price": "599"
+    },
+    {
+      "id": "3",
+      "title": "Product 3",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Omnis laboriosam voluptatum accusamus voluptatibus culpa totam sequi aspernatur quia perspiciatis amet.",
+      "price": "799"
+    },
+    {
+      "id": "4",
+      "title": "Product 4",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Omnis laboriosam voluptatum accusamus voluptatibus culpa totam sequi aspernatur quia perspiciatis amet.",
+      "price": "799"
+    },
+    {
+      "id": "5",
+      "title": "Product 5",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Omnis laboriosam voluptatum accusamus voluptatibus culpa totam sequi aspernatur quia perspiciatis amet.",
+      "price": "599"
+    },
+    {
+      "id": "jVMWTHzH36-1GSuYwObrK",
+      "title": "iphone",
+      "description": "bytyj",
+      "price": "566",
+      "category": "phone"
+    },
+    {
+      "id": "FUDhVISQtIZIt6ad3v5q0",
+      "title": "product 5",
+      "description": "ddreg",
+      "price": "20",
+      "category": "beauty"
+    },
+    {
+      "id": "gblBstYOhRI7jdp-ZjIlg",
+      "title": "product 5",
+      "description": "ddreg",
+      "price": "20",
+      "category": "beauty"
+    },
+    {
+      "id": "6ULxq0ijbKr6VjJQzMh9Z",
+      "title": "product 6",
+      "description": "laaaa",
+      "price": "45",
+      "category": "phone"
+    },
+    {
+      "id": "mane2Fo9SnC7lisK3G_vw",
+      "title": "product 7",
+      "description": "laaaaalalala",
+      "price": "900",
+      "category": "electric"
+    },
+    {
+      "id": "eEYFwD37Jjd7ED-DroUyu",
+      "title": "sds",
+      "description": "ghd",
+      "price": "55"
+    },
+    {
+      "id": "XOnfgbgZFpi30wPkPQKAh",
+      "title": "hddg",
+      "description": "sdg",
+      "price": "899"
+    },
+    {
+      "id": "cR0SN1U4qxqJtrICkGtdx",
+      "title": "Product",
+      "description": "lalalaal",
+      "price": "33"
+    }
+  ]
+}
